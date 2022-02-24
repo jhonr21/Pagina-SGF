@@ -1,0 +1,32 @@
+.logo{
+    width: 100px;
+}
+
+.empresa{
+    margin-left: 1rem;
+}
+.textoNav{
+margin-left: auto;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.imagenes{
+  margin: 0 auto;
+  margin-left: 15%;
+  margin-top: -3rem;
+  width: 75%;
+}
+.somos-q{
+  text-align: justify;
+  margin-top: 8rem;
+}
+.quienes-somos{
+text-align: justify;
+width: 100%;
+margin-top: -3;
+}
+
