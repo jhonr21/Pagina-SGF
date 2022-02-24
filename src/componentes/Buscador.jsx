@@ -25,7 +25,9 @@ const Buscador = () => {
       >
         <Nav.Link className='nav' href="#action1 ">¿QUIENES SOMOS?</Nav.Link>
         <Nav.Link className='nav' href="#action2 ">VALORES</Nav.Link>
-        <Nav.Link className='nav' href="#action3 ">SERVICIOS</Nav.Link>
+        <Nav.Link className='nav' href="#action3 ">Interpretes</Nav.Link>
+        <Nav.Link className='nav' href="#action3 ">CAPACITACION</Nav.Link>
+        <Nav.Link className='nav' href="#action3 ">POSTULARME</Nav.Link>
       </Nav>
       <Form className="d-flex">
         <FormControl
