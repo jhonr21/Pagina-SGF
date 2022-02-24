@@ -4,13 +4,14 @@ import Buscador from './componentes/Buscador';
 import Footer from './componentes/Footer';
 import QuienSomos from './componentes/QuienSomos';
 import Slider from './componentes/Slider';
+import Valores from './componentes/Valores';
 
 
 
 function App() {
   return (
     <Router>
-       <Buscador /> <Slider /> <QuienSomos/> <Footer/>
+       <Buscador /> <Slider /> <QuienSomos/> <Valores/> <Footer/> 
      <Routes>
        <Route path="/"> 
        

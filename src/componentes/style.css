@@ -30,3 +30,14 @@ width: 100%;
 margin-top: -3;
 }
 
+.Valores{
+justify-content: space-evenly;
+margin-bottom: 1rem;
+margin-top: 2rem;
+}
+
+.Titulo{
+text-align: center;
+margin-top: 3rem;
+}
+
